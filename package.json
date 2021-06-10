@@ -1,0 +1,19 @@
+{
+  "name": "gitohub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "aushwin",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "configstore": "^6.0.0",
+    "figlet": "^1.5.0",
+    "inquirer": "^8.1.0"
+  }
+}
