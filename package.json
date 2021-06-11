@@ -11,7 +11,12 @@
   "author": "aushwin",
   "license": "ISC",
   "dependencies": {
+    "@octokit/auth-oauth-app": "^4.3.0",
+    "@octokit/auth-token": "^2.4.5",
+    "@octokit/rest": "^18.5.6",
     "chalk": "^4.1.1",
+    "clui": "^0.3.6",
+    "conf": "^10.0.1",
     "configstore": "^6.0.0",
     "figlet": "^1.5.0",
     "inquirer": "^8.1.0"
